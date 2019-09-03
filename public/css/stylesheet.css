@@ -1,5 +1,9 @@
+.spicynav {
+  background-color: orange;
+}
+
 body {
-  background-color: : yellow;
+  background-color: lightsalmon;
 }
 
 h1 {
@@ -27,7 +31,7 @@ h6 {
 }
 
 div {
-  color: orange;
+  color: red;
 }
 
 p {
